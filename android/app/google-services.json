@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "866264498248",
+    "project_id": "high-five-ed927",
+    "storage_bucket": "high-five-ed927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866264498248:android:5af1413c72211261ea187d",
+        "android_client_info": {
+          "package_name": "com.macrotech.high_five"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866264498248-d677fje5nf4ltheo3vibo285ii3bhkjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.macrotech.high_five",
+            "certificate_hash": "39a5999f07d762b0706e948ade182b2bba2728d0"
+          }
+        },
+        {
+          "client_id": "866264498248-fcsprg3tfv53960p5itmr50s56ap1gu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz4CT9l8TuM0Iq9Z3nhP7bzdPe18mgCvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866264498248-fcsprg3tfv53960p5itmr50s56ap1gu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

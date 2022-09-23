@@ -1,0 +1,29 @@
+media query responsive sizes
+
+10px = AppConfig(context).width / 31,
+11px = AppConfig(context).width / 30,
+12px = AppConfig(context).width / 29,
+13px = AppConfig(context).width / 28,
+14px = AppConfig(context).width / 27.5,
+15px = AppConfig(context).width / 27,
+16px = AppConfig(context).width / 26.5,
+17px = AppConfig(context).width / 25,
+18px = AppConfig(context).width / 24.5,
+19px = AppConfig(context).width / 24,
+20px = AppConfig(context).width / 23.5,
+
+
+
+// import 'package:flutter/material.dart';
+
+// class AppConfig {
+//   BuildContext context;
+//   double height = 1;
+//   double width = 1;
+
+//   AppConfig(this.context) {
+//     MediaQueryData _queryData = MediaQuery.of(context);
+//     height = _queryData.size.height;
+//     width = _queryData.size.width;
+//   }
+// }
